@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f97316" />
+  
+  <!-- Main Shape (Puzzle Piece) -->
+  <path d="M100 40 Q120 20, 160 20 L160 40 Q140 40, 140 60 L140 100 L60 100 L60 60 Q60 40, 40 40 Z" fill="#f9f9f9" />
+
+  <!-- Text -->
+  <text x="100" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#f9f9f9">noXcuse</text>
+</svg>
